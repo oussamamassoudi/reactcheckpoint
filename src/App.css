@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+}
+.car-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;
+}
